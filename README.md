@@ -39,6 +39,12 @@ Berdasarkan nilai rata-rata yang telah dibuat, kita bisa memberikan makna pada s
 
 <img width="965" height="885" alt="image" src="https://github.com/user-attachments/assets/3932ac7e-0d86-4c4f-ae73-fdc30733829e" />
 
+## Rekomendasi
+Analisis kluster yang telah dibuat, dapat ditemukan kelompok karyawan berkinerja tinggi (Klaster 2) yang berpotensi memiliki gaji yang tidak sebanding dengan kontribusinya. Mereka adalah aset paling berharga perusahaan dan berisiko tinggi untuk mengalami attrition.
+- Lakukan Tinjauan Kompensasi Khusus: Lakukan audit gaji untuk semua karyawan di Klaster 2. Sesuaikan kompensasi mereka untuk memastikan gaji mereka sejalan dengan rating kinerja mereka yang tinggi (rata-rata 4.17) dan standar pasar.
+- Kembangkan Jalur Karir Jelas: Tawarkan kesempatan promosi dan pengembangan yang terstruktur untuk Klaster 2. Hal ini dapat meningkatkan motivasi dan komitmen mereka terhadap perusahaan.
+- Berikan Pengakuan dan Penghargaan: Tetapkan program penghargaan yang secara eksplisit mengakui kontribusi karyawan berkinerja tinggi ini, yang sering kali merupakan "bintang baru" di perusahaan.
+  
 ## Kontributor
 - Nama :  Rizka Hasna Nabila
 - Email : rizkahasna94@gmail.com
